@@ -1,3 +1,4 @@
+// Learn javaScript
 1. Basic Concepts:
     • Variables: Declarations, scopes, hoisting.
     • Data Types: Primitive types (number, string, boolean, null, undefined, symbol), objects.
