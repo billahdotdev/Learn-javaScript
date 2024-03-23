@@ -4,12 +4,15 @@
         ◦ var (function-scoped variable): Historically used for variable declaration but is now considered less preferable compared to let and const.
         ◦ let (block-scoped variable): Introduced in ES6 (ECMAScript 2015), preferred over var in most cases due to its block-level scoping.
         ◦ const (constant): Also introduced in ES6, used to declare variables whose value cannot be reassigned.
+
     • Initialization: Variables can be declared and assigned a value simultaneously.
       let x = 10;
+
     • Scope:
     • Global Scope: Variables declared outside of any function or block have global scope and can be accessed from anywhere in the code.
       var globalVar = 5;
       console.log(globalVar); // Output: 5
+
     • Function Scope: Variables declared inside a function have function scope and can only be accessed within that function.
       function myFunction() {
           var localVar = 10;
@@ -23,6 +26,7 @@
           console.log(blockVar); // Output: 20
       }
       // console.log(blockVar); // Error: blockVar is not defined
+
     • Hoisting:
     • JavaScript hoists variable declarations to the top of their scope during compilation, regardless of where the actual declaration is made.
     • console.log(myVar); // Output: undefined
@@ -41,4 +45,5 @@
           age: 30
       };
       person.age = 35; // Valid
+
       
