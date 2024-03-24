@@ -46,4 +46,61 @@
       };
       person.age = 35; // Valid
 
-      
+                                                             Data Types:
+Primitive Data Types:
+1. Number:
+    • Represents numeric data.
+    • Can be integers, floating-point numbers, or special numeric values like Infinity, -Infinity, and NaN (Not-a-Number).
+    • Examples:
+      let integer = 10;
+      let float = 3.14;
+      let infinity = Infinity;
+      let nan = NaN;
+2. String:
+    • Represents textual data.
+    • Enclosed in single (') or double (") quotes.
+    • Can contain any Unicode character, including escape sequences.
+    • Examples:
+      let str1 = 'hello';
+      let str2 = "JavaScript";
+      let escapedStr = 'This is a \'string\'';
+3. Boolean:
+    • Represents a logical value indicating true or false.
+    • Used in control structures and conditional statements.
+    • Examples:
+      let isTrue = true;
+      let isFalse = false;
+4. Undefined:
+    • Represents a variable that has been declared but not assigned a value.
+    • It's the default value of uninitialized variables.
+    • Example:
+      let x;
+      console.log(x); // Output: undefined
+5. Null:
+    • Represents the intentional absence of any object value.
+    • Often used to indicate that a variable has no value.
+    • Example:
+      let y = null;
+Object Data Types:
+6. Symbol:
+    • Introduced in ES6 (ECMAScript 2015).
+    • Represents a unique identifier.
+    • Used mainly as object property keys to prevent name clashes.
+    • Example:
+      const symbol1 = Symbol('symbol1');
+      const symbol2 = Symbol('symbol2');
+7. Object:
+    • Represents a collection of key-value pairs (properties).
+    • Used to store various data and functionalities.
+    • Examples:
+      let person = {
+          name: 'John',
+          age: 30,
+          hobbies: ['reading', 'cooking']
+      };
+8. Array:
+    • Represents a list-like collection of elements.
+    • Can hold elements of any data type, including other arrays and objects.
+    • Example:
+      let numbers = [1, 2, 3, 4, 5];
+      let mixedArray = [1, 'two', true];
