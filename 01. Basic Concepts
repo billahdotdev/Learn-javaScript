@@ -104,3 +104,16 @@ Object Data Types:
     • Example:
       let numbers = [1, 2, 3, 4, 5];
       let mixedArray = [1, 'two', true];
+
+Special Data Types:
+    • Function: Functions are first-class citizens in JavaScript. They can be assigned to variables, passed as arguments, and returned from other functions.
+      const add = function(a, b) {
+          return a + b;
+      };
+Type Conversion:
+JavaScript performs implicit and explicit type conversion:
+    • Implicit: Automatically converts data types during operations.
+      const result = 10 + '5'; // '105'
+    • Explicit: Manually converts data types using functions like parseInt(), parseFloat(), String(), Boolean(), etc.
+      const num = parseInt('10'); // 10
+      const bool = Boolean(0); // false
