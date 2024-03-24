@@ -168,3 +168,16 @@ let y = 10;
 console.log(x < 10 && y > 5); // true
 console.log(x < 10 || y < 5); // true
 console.log(!(x == 5)); // false
+
+5. Unary Operators:
+Unary operators work with a single operand.
+    • Unary Plus (+): Converts its operand to a number.
+    • Unary Negation (-): Converts its operand to a number and negates it.
+    • Increment (++) and Decrement (--): Increase or decrease the value of the operand by 1.
+let x = "10";
+console.log(+x); // 10 (converted to number)
+console.log(-x); // -10 (converted to number and negated)
+
+let y = 5;
+y++;
+console.log(y); // 6
