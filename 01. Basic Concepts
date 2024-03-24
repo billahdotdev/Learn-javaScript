@@ -117,3 +117,5 @@ JavaScript performs implicit and explicit type conversion:
     • Explicit: Manually converts data types using functions like parseInt(), parseFloat(), String(), Boolean(), etc.
       const num = parseInt('10'); // 10
       const bool = Boolean(0); // false
+
+                                                          Operators:
