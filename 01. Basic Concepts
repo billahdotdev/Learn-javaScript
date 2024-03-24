@@ -157,3 +157,14 @@ console.log(5 == "5"); // true
 console.log(5 === "5"); // false
 console.log(5 != "5"); // false
 console.log(5 !== "5"); // true
+
+4. Logical Operators:
+Logical operators are used to combine or invert boolean values.
+    • Logical AND (&&): Returns true if both operands are true.
+    • Logical OR (||): Returns true if at least one operand is true.
+    • Logical NOT (!): Returns true if the operand is false and vice versa.
+let x = 5;
+let y = 10;
+console.log(x < 10 && y > 5); // true
+console.log(x < 10 || y < 5); // true
+console.log(!(x == 5)); // false
