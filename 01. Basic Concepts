@@ -119,3 +119,20 @@ JavaScript performs implicit and explicit type conversion:
       const bool = Boolean(0); // false
 
                                                           Operators:
+
+1. Arithmetic Operators:
+Arithmetic operators are used to perform arithmetic calculations.
+    • Addition (+): Adds two operands.
+    • Subtraction (-): Subtracts the second operand from the first.
+    • Multiplication (*): Multiplies two operands.
+    • Division (/): Divides the first operand by the second.
+    • Modulus (%): Returns the remainder of the division.
+    • Exponentiation () (ES2016 and later)**: Raises the first operand to the power of the second.
+let x = 10;
+let y = 5;
+console.log(x + y); // 15
+console.log(x - y); // 5
+console.log(x * y); // 50
+console.log(x / y); // 2
+console.log(x % y); // 0
+console.log(x ** y); // 100000
