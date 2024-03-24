@@ -144,3 +144,16 @@ Assignment operators are used to assign values to variables.
 let a = 10;
 a += 5; // equivalent to a = a + 5;
 console.log(a); // 15
+
+3. Comparison Operators:
+Comparison operators are used to compare values.
+    • Equality (==): Returns true if the operands are equal.
+    • Identity (===): Returns true if the operands are equal and of the same type.
+    • Inequality (!=): Returns true if the operands are not equal.
+    • Strict Inequality (!==): Returns true if the operands are not equal or not of the same type.
+    • Greater Than (>) and Greater Than or Equal To (>=): Return true if the left operand is greater than (or equal to) the right operand.
+    • Less Than (<) and Less Than or Equal To (<=): Return true if the left operand is less than (or equal to) the right operand.
+console.log(5 == "5"); // true
+console.log(5 === "5"); // false
+console.log(5 != "5"); // false
+console.log(5 !== "5"); // true
