@@ -7,7 +7,7 @@
 2. Functions:
     • Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.
     • Parameters and Arguments: Default parameters, rest parameters, spread syntax.
-    • Closures: Scope chain, lexical scoping, closures and memory management.
+    • Closures: Scope chain, lexical scoping, closures, and memory management.
     • Higher-Order Functions: Functions as first-class citizens, callbacks, function composition.
 3. Objects and Prototypes:
     • Object Creation: Object literals, constructor functions, classes (ES6).
