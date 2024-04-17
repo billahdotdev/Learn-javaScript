@@ -10,3 +10,7 @@ function greet(name) {
 const greet = function(name) {
   return `Hello, ${name}!`;
 };
+
+2. Parameters and Arguments:
+  ◦ Parameters: Variables listed as a part of the function definition.
+  ◦ Arguments: Values passed to the function when it's called.
