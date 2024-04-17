@@ -55,7 +55,12 @@ const greet = function(name) {
        return n * factorial(n - 1);
    }
 
-
+8. Default Parameters:
+    ◦ Allows parameters to have default values if no value or undefined is passed.
+ 
+   function greet(name = 'Guest') {
+       return `Hello, ${name}!`;
+   }
 
 
 
