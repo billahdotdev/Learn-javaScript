@@ -1,1 +1,12 @@
 # function 
+    1. Function Declaration vs. Function Expression:
+        ◦ Declaration: Declared using the function keyword followed by the function name and parameters.
+          javascriptCopy code
+          function greet(name) {
+              return `Hello, ${name}!`;
+          }
+        ◦ Expression: Assigned to a variable. Can be named (function expression) or anonymous (anonymous function expression).
+          javascriptCopy code
+          const greet = function(name) {
+              return `Hello, ${name}!`;
+          };
