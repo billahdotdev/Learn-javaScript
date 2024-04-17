@@ -32,6 +32,19 @@ const greet = function(name) {
    const operate = (a, b, operation) => operation(a, b);
    const result = operate(5, 3, (a, b) => a + b); // Result will be 8
 
+6. Scope and Closures:
+    ◦ Functions create a scope in JavaScript, meaning variables defined inside a function are not accessible outside unless explicitly returned or enclosed in a closure.
+  
+   function outer() {
+       const x = 10;
+       function inner() {
+           console.log(x); // Inner function has access to the outer function's variable (closure)
+       }
+       return inner;
+   }
+   const innerFn = outer();
+   innerFn(); // Will log 10
+
 
 
 
