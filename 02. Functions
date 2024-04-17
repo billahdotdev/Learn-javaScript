@@ -45,6 +45,16 @@ const greet = function(name) {
    const innerFn = outer();
    innerFn(); // Will log 10
 
+7. Recursion:
+    ◦ A function calling itself. Often used for tasks that can be broken down into smaller, similar subtasks.
+   
+   function factorial(n) {
+       if (n === 0) {
+           return 1;
+       }
+       return n * factorial(n - 1);
+   }
+
 
 
 
