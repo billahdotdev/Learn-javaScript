@@ -21,5 +21,10 @@ const greet = function(name) {
    setTimeout(function() {
        console.log('This is an anonymous function');
 
+4. Arrow Functions:
+    ◦ Introduced in ES6, providing a concise syntax, lexical this binding, and implicit return.
+   
+   const add = (a, b) => a + b;
+
 
 
