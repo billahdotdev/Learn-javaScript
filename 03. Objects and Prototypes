@@ -49,6 +49,29 @@ const person2 = new Person('Alice', 25);
  const student = new Student('Bob', 20, 'A');
  student.greet(); // Output: Hello, my name is Bob!
 
+    4. Class Syntax (ES6):
+        ◦ ES6 introduced a class syntax that simplifies the creation of objects with constructors and inheritance, although under the hood, it still uses prototypes.
+       
+       class Person {
+           constructor(name, age) {
+               this.name = name;
+               this.age = age;
+           }
+           greet() {
+               console.log(`Hello, my name is ${this.name}!`);
+           }
+       }
+       
+       class Student extends Person {
+           constructor(name, age, grade) {
+               super(name, age);
+               this.grade = grade;
+           }
+       }
+       
+       const student = new Student('Bob', 20, 'A');
+       student.greet(); // Output: Hello, my name is Bob!
+
 
 
 
