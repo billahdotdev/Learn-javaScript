@@ -33,20 +33,20 @@ const person2 = new Person('Alice', 25);
  person2.greet(); // Output: Hello, my name is Alice!
 
 
-    3. Inheritance:
-        ◦ JavaScript's prototype-based inheritance allows objects to inherit properties and methods from other objects.
-        ◦ You can achieve inheritance by setting an object's prototype to another object's prototype.
-       
-       // Inheriting from Person
-       function Student(name, age, grade) {
-           Person.call(this, name, age);
-           this.grade = grade;
-       }
-       
-       Student.prototype = Object.create(Person.prototype);
-       Student.prototype.constructor = Student;
-       
-       const student = new Student('Bob', 20, 'A');
-       student.greet(); // Output: Hello, my name is Bob!
+3. Inheritance:
+  ◦ JavaScript's prototype-based inheritance allows objects to inherit properties and methods from other objects.
+  ◦ You can achieve inheritance by setting an object's prototype to another object's prototype.
+ 
+ // Inheriting from Person
+ function Student(name, age, grade) {
+     Person.call(this, name, age);
+     this.grade = grade;
+ }
+ 
+ Student.prototype = Object.create(Person.prototype);
+ Student.prototype.constructor = Student;
+ 
+ const student = new Student('Bob', 20, 'A');
+ student.greet(); // Output: Hello, my name is Bob!
 
 
