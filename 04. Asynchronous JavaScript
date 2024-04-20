@@ -43,6 +43,11 @@ fetchData(handleData);
       callbacks make the code hard to read and maintain.
     ▪ Error handling can become complicated with deeply nested callbacks.
 
+4. Best Practices:
+◦ Use named functions for callbacks to improve code readability.
+◦ Handle errors properly within callbacks to prevent unexpected behavior.
+◦ Consider using modern alternatives like Promises or async/await for more readable and manageable asynchronous code.
+
 
 • Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.
 • Async/Await: Syntactic sugar for promises, async functions, await keyword.
