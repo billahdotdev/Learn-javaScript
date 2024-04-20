@@ -1,5 +1,6 @@
 # Learn javaScript
-1. Basic Concepts:
+## 1. Basic Concepts:
+
    
     • Variables: Declarations, scopes, hoisting.
    
