@@ -20,6 +20,7 @@
 
 • Higher-Order Functions: Functions as first-class citizens, callbacks, function composition.
 
+
 4. Objects and Prototypes:
     • Object Creation: Object literals, constructor functions, classes (ES6).
     • Properties and Methods: Accessing, adding, modifying, deleting.
