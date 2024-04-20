@@ -17,6 +17,7 @@
 • Parameters and Arguments: Default parameters, rest parameters, spread syntax.
 
 • Closures: Scope chain, lexical scoping, closures, and memory management.
+
 • Higher-Order Functions: Functions as first-class citizens, callbacks, function composition.
 4. Objects and Prototypes:
     • Object Creation: Object literals, constructor functions, classes (ES6).
