@@ -7,6 +7,7 @@
     • Operators: Arithmetic, comparison, logical, assignment, bit-wise.
    
     • Control Structures: Conditional statements (if-else, switch...case), loops (for, while, do-while).
+   
 3. Functions:
     • Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.
     • Parameters and Arguments: Default parameters, rest parameters, spread syntax.
