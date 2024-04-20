@@ -11,10 +11,10 @@
 • Control Structures: Conditional statements (if-else, switch...case), loops (for, while, do-while).
    
 ## 2. Functions:
-    • Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.
-    • Parameters and Arguments: Default parameters, rest parameters, spread syntax.
-    • Closures: Scope chain, lexical scoping, closures, and memory management.
-    • Higher-Order Functions: Functions as first-class citizens, callbacks, function composition.
+• Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.
+• Parameters and Arguments: Default parameters, rest parameters, spread syntax.
+• Closures: Scope chain, lexical scoping, closures, and memory management.
+• Higher-Order Functions: Functions as first-class citizens, callbacks, function composition.
 4. Objects and Prototypes:
     • Object Creation: Object literals, constructor functions, classes (ES6).
     • Properties and Methods: Accessing, adding, modifying, deleting.
