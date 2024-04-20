@@ -39,7 +39,9 @@ fetchData(handleData);
     ▪ Callbacks are simple and widely supported in JavaScript.
     ▪ They allow you to maintain control flow in asynchronous code.
 ◦ Cons:
-    ▪ Callbacks can lead to callback hell, a situation where multiple nested callbacks make the code hard to read and maintain.
+    ▪ Callbacks can lead to callback hell, a situation where multiple nested 
+
+      callbacks make the code hard to read and maintain.
     ▪ Error handling can become complicated with deeply nested callbacks.
 
 
