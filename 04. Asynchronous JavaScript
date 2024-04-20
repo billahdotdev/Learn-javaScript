@@ -49,6 +49,6 @@ fetchData(handleData);
 ◦ Consider using modern alternatives like Promises or async/await for more readable and manageable asynchronous code.
 
 
-• Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.
-• Async/Await: Syntactic sugar for promises, async functions, await keyword.
-• Event Loop: Understanding the event-driven nature of JavaScript, the call stack, and the event queue.
+// Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.
+// Async/Await: Syntactic sugar for promises, async functions, await keyword.
+// Event Loop: Understanding the event-driven nature of JavaScript, the call stack, and the event queue.
