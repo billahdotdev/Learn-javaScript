@@ -1,2 +1,4 @@
 # Asynchronous JavaScript
 
+Asynchronous JavaScript lets your code continue running without waiting for a particular task to complete. It's like being able to cook dinner while also doing the laundry; you can start cooking, then switch to laundry while the food is simmering, and come back to finish cooking when the laundry is done. This flexibility helps make your programs more responsive and efficient.
+
