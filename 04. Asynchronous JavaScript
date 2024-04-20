@@ -34,7 +34,7 @@ function handleData(data) {
 fetchData(handleData);
 
 
-4. Pros and Cons:
+3. Pros and Cons:
 ◦ Pros:
     ▪ Callbacks are simple and widely supported in JavaScript.
     ▪ They allow you to maintain control flow in asynchronous code.
