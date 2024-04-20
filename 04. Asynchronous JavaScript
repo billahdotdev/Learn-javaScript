@@ -6,6 +6,7 @@ then switch to laundry while the food is simmering, and come back to finish cook
 This flexibility helps make your programs more responsive and efficient.
 
 // Callbacks: Handling asynchronous operations with callbacks.
+
 1. What are callbacks?
 ◦ Callbacks are functions that are passed as arguments to other functions.
 ◦ They are invoked (or called back) at some point in the future, typically after an asynchronous operation has completed.
