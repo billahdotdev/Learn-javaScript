@@ -34,6 +34,15 @@ function handleData(data) {
 fetchData(handleData);
 
 
+4. Pros and Cons:
+◦ Pros:
+    ▪ Callbacks are simple and widely supported in JavaScript.
+    ▪ They allow you to maintain control flow in asynchronous code.
+◦ Cons:
+    ▪ Callbacks can lead to callback hell, a situation where multiple nested callbacks make the code hard to read and maintain.
+    ▪ Error handling can become complicated with deeply nested callbacks.
+
+
 • Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.
 • Async/Await: Syntactic sugar for promises, async functions, await keyword.
 • Event Loop: Understanding the event-driven nature of JavaScript, the call stack, and the event queue.
