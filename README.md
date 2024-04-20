@@ -24,6 +24,7 @@
 ## 4. Objects and Prototypes:
 
 • Object Creation: Object literals, constructor functions, classes (ES6).
+
 • Properties and Methods: Accessing, adding, modifying, deleting.
 • Prototypes and Inheritance: Prototype chain, prototype property, __proto__, Object.create().
 • ES6 Classes: Syntactic sugar for constructor functions and prototypes.
