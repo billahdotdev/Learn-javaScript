@@ -15,6 +15,24 @@ This flexibility helps make your programs more responsive and efficient.
 ◦ In asynchronous operations, such as fetching data from a server or reading a file, you provide a callback function to execute once the operation is finished.
 ◦ This allows you to continue with other tasks while waiting for the asynchronous operation to complete.
 
+Example:
+
+function fetchData(callback) {
+ // Simulate fetching data asynchronously
+ setTimeout(() => {
+   const data = 'This is the fetched data';
+   callback(data); // Call the callback function with the fetched data
+ }, 2000);
+}
+
+// Define a callback function
+function handleData(data) {
+ console.log('Received data:', data);
+}
+
+// Call the fetchData function with the handleData callback
+fetchData(handleData);
+
 
 • Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.
 • Async/Await: Syntactic sugar for promises, async functions, await keyword.
