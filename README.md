@@ -31,6 +31,7 @@
 
 • ES6 Classes: Syntactic sugar for constructor functions and prototypes.
 
+
 5. Asynchronous JavaScript:
     • Callbacks: Handling asynchronous operations with callbacks.
     • Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.
