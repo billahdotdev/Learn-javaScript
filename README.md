@@ -11,6 +11,7 @@
 • Control Structures: Conditional statements (if-else, switch...case), loops (for, while, do-while).
    
 ## 2. Functions:
+
 • Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.
 • Parameters and Arguments: Default parameters, rest parameters, spread syntax.
 • Closures: Scope chain, lexical scoping, closures, and memory management.
