@@ -56,6 +56,7 @@
 • Modules: Import/export syntax for modularization.
 
 ## 6. Error Handling:
+
     • try/catch/finally: Handling errors gracefully.
     • Throwing Errors: Creating custom error objects.
     • Error Propagation: Dealing with errors in asynchronous code.
