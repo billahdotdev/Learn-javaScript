@@ -108,6 +108,7 @@
 ## 11. Tools and Libraries:
 
 • Package Managers: npm, Yarn.
+
 • Bundlers: Webpack, Parcel.
 • Linters: ESLint.
 • Testing Frameworks: Jest, Mocha.
