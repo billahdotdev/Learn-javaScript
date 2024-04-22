@@ -88,6 +88,7 @@
 ## 09. Browser Environment:
 
     • Window Object: Properties and methods related to the browser window.
+    
     • Timers: setTimeout() and setInterval() functions.
     • Cookies: Reading and writing cookies.
     • Geolocation API: Retrieving user's geographical location.
