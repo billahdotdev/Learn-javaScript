@@ -43,12 +43,12 @@
 • Event Loop: Understanding the event-driven nature of JavaScript, the call stack, and the event queue.
 
 ## 5. ES6+ Features:
-    • let, const: Block-scoped variables, immutability.
-    • Arrow Functions: Concise function syntax with implicit return.
-    • Template Literals: String interpolation.
-    • Destructuring: Extracting values from objects and arrays.
-    • Spread and Rest Operators: Spreading elements, gathering parameters.
-    • Modules: Import/export syntax for modularization.
+• let, const: Block-scoped variables, immutability.
+• Arrow Functions: Concise function syntax with implicit return.
+• Template Literals: String interpolation.
+• Destructuring: Extracting values from objects and arrays.
+• Spread and Rest Operators: Spreading elements, gathering parameters.
+• Modules: Import/export syntax for modularization.
 ## 6. Error Handling:
     • try/catch/finally: Handling errors gracefully.
     • Throwing Errors: Creating custom error objects.
