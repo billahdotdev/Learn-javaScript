@@ -87,11 +87,11 @@
 
 ## 09. Browser Environment:
 
-    • Window Object: Properties and methods related to the browser window.
-    
-    • Timers: setTimeout() and setInterval() functions.
-    • Cookies: Reading and writing cookies.
-    • Geolocation API: Retrieving user's geographical location.
+• Window Object: Properties and methods related to the browser window.
+
+• Timers: setTimeout() and setInterval() functions.
+• Cookies: Reading and writing cookies.
+• Geolocation API: Retrieving user's geographical location.
 ## 10. Advanced Topics:
     • ES Modules: Deeper understanding of JavaScript modules.
     • Functional Programming: Immutability, higher-order functions, pure functions.
