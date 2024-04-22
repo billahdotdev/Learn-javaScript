@@ -96,10 +96,10 @@
 • Geolocation API: Retrieving user's geographical location.
 
 ## 10. Advanced Topics:
-    • ES Modules: Deeper understanding of JavaScript modules.
-    • Functional Programming: Immutability, higher-order functions, pure functions.
-    • Design Patterns: Common patterns like Singleton, Observer, Factory.
-    • Performance Optimization: Reducing memory usage, optimizing code execution.
+• ES Modules: Deeper understanding of JavaScript modules.
+• Functional Programming: Immutability, higher-order functions, pure functions.
+• Design Patterns: Common patterns like Singleton, Observer, Factory.
+• Performance Optimization: Reducing memory usage, optimizing code execution.
 ## 11. Tools and Libraries:
     • Package Managers: npm, Yarn.
     • Bundlers: Webpack, Parcel.
