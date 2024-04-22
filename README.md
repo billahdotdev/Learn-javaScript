@@ -76,7 +76,7 @@
     • Bundlers: Webpack, Parcel.
     • Linters: ESLint.
     • Testing Frameworks: Jest, Mocha.
-12. Security:
+## 12. Security:
     • Cross-Site Scripting (XSS): Preventing injection attacks.
     • Cross-Site Request Forgery (CSRF): Protecting against unauthorized requests.
     • Content Security Policy (CSP): Defining which resources can be loaded on a web page.
