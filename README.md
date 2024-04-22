@@ -43,6 +43,7 @@
 • Event Loop: Understanding the event-driven nature of JavaScript, the call stack, and the event queue.
 
 ## 5. ES6+ Features:
+
 • let, const: Block-scoped variables, immutability.
 
 • Arrow Functions: Concise function syntax with implicit return.
