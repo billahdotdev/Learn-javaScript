@@ -78,6 +78,7 @@
 ## 08. Web APIs:
 
 • Fetch API: Making HTTP requests.
+
 • localStorage and sessionStorage: Storing data client-side.
 • WebSockets: Real-time communication between client and server.
 • Canvas API: Drawing graphics dynamically.
