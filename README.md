@@ -98,6 +98,7 @@
 ## 10. Advanced Topics:
 
 • ES Modules: Deeper understanding of JavaScript modules.
+
 • Functional Programming: Immutability, higher-order functions, pure functions.
 • Design Patterns: Common patterns like Singleton, Observer, Factory.
 • Performance Optimization: Reducing memory usage, optimizing code execution.
