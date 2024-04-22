@@ -51,7 +51,7 @@
     • Error Propagation: Dealing with errors in asynchronous code.
 
 
-7. DOM Manipulation:
+## 7. DOM Manipulation:
     • Accessing Elements: document.getElementById(), document.querySelector().
     • Manipulating Elements: Changing content, styles, attributes.
     • Event Handling: Adding event listeners, responding to user actions.
