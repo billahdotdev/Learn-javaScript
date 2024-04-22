@@ -112,6 +112,7 @@
 • Bundlers: Webpack, Parcel.
 
 • Linters: ESLint.
+
 • Testing Frameworks: Jest, Mocha.
 ## 12. Security:
     • Cross-Site Scripting (XSS): Preventing injection attacks.
