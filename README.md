@@ -52,6 +52,7 @@
 • Destructuring: Extracting values from objects and arrays.
 
 • Spread and Rest Operators: Spreading elements, gathering parameters.
+
 • Modules: Import/export syntax for modularization.
 ## 6. Error Handling:
     • try/catch/finally: Handling errors gracefully.
