@@ -65,6 +65,7 @@
 
 ## 7. DOM Manipulation:
 • Accessing Elements: document.getElementById(), document.querySelector().
+
 • Manipulating Elements: Changing content, styles, attributes.
 • Event Handling: Adding event listeners, responding to user actions.
 • Traversal: Navigating the DOM tree.
