@@ -37,6 +37,7 @@
 • Callbacks: Handling asynchronous operations with callbacks.
 
 • Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.
+
 • Async/Await: Syntactic sugar for promises, async functions, await keyword.
 • Event Loop: Understanding the event-driven nature of JavaScript, the call stack, and the event queue.
 ## 5. ES6+ Features:
