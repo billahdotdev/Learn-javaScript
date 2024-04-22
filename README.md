@@ -106,6 +106,7 @@
 • Performance Optimization: Reducing memory usage, optimizing code execution.
 
 ## 11. Tools and Libraries:
+
     • Package Managers: npm, Yarn.
     • Bundlers: Webpack, Parcel.
     • Linters: ESLint.
