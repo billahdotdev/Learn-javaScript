@@ -46,6 +46,7 @@
 • let, const: Block-scoped variables, immutability.
 
 • Arrow Functions: Concise function syntax with implicit return.
+
 • Template Literals: String interpolation.
 • Destructuring: Extracting values from objects and arrays.
 • Spread and Rest Operators: Spreading elements, gathering parameters.
