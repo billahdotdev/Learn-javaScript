@@ -66,7 +66,7 @@
     • Timers: setTimeout() and setInterval() functions.
     • Cookies: Reading and writing cookies.
     • Geolocation API: Retrieving user's geographical location.
-10. Advanced Topics:
+## 10. Advanced Topics:
     • ES Modules: Deeper understanding of JavaScript modules.
     • Functional Programming: Immutability, higher-order functions, pure functions.
     • Design Patterns: Common patterns like Singleton, Observer, Factory.
