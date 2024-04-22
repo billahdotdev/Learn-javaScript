@@ -82,6 +82,7 @@
 • localStorage and sessionStorage: Storing data client-side.
 
 • WebSockets: Real-time communication between client and server.
+
 • Canvas API: Drawing graphics dynamically.
 ## 09. Browser Environment:
     • Window Object: Properties and methods related to the browser window.
