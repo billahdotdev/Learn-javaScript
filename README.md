@@ -74,6 +74,7 @@
 • Event Handling: Adding event listeners, responding to user actions.
 
 • Traversal: Navigating the DOM tree.
+
 ## 08. Web APIs:
     • Fetch API: Making HTTP requests.
     • localStorage and sessionStorage: Storing data client-side.
