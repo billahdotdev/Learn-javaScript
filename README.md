@@ -84,6 +84,7 @@
 • WebSockets: Real-time communication between client and server.
 
 • Canvas API: Drawing graphics dynamically.
+
 ## 09. Browser Environment:
     • Window Object: Properties and methods related to the browser window.
     • Timers: setTimeout() and setInterval() functions.
