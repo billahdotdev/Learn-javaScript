@@ -33,7 +33,9 @@ const arr1 = [1, 2, 3];
 const arr2 = [4, 5, 6];
 const combined = [...arr1, ...arr2];
 
-5. Rest Parameters: The rest parameter syntax allows representing an indefinite number of arguments as an array, simplifying function definitions.
+5. Rest Parameters: The rest parameter syntax allows representing an indefinite number of arguments as an array, 
+
+simplifying function definitions.
 
 function sum(...numbers) {
     return numbers.reduce((acc, curr) => acc + curr, 0);
