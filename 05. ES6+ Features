@@ -26,7 +26,8 @@ const [a, b] = [1, 2];
 // Object destructuring
 const { x, y } = { x: 1, y: 2 };
 
-4. Spread Syntax: Spread syntax allows an iterable such as an array expression or string to be expanded in places where zero or more arguments (for function calls) or elements (for array literals) are expected.
+4. Spread Syntax: Spread syntax allows an iterable such as an array expression or string to be expanded in places 
+where zero or more arguments (for function calls) or elements (for array literals) are expected.
 
 const arr1 = [1, 2, 3];
 const arr2 = [4, 5, 6];
