@@ -42,3 +42,4 @@ throw Statement:
 
 • The throw statement is used to manually generate an error or exception.
 • It can throw any value, but it's common to throw instances of Error or its subclasses.
+
