@@ -36,7 +36,6 @@ try {
 
 
 ***2. Throwing Errors:
-
 throw Statement:
 
 • The throw statement is used to manually generate an error or exception.
