@@ -1,5 +1,7 @@
 ES6+ Features
-1. Arrow Functions: Arrow functions provide a concise syntax for writing anonymous functions. They lexically bind the this value, making it more predictable and avoiding the need for bind, call, or apply.
+1. Arrow Functions: Arrow functions provide a concise syntax for writing anonymous functions. 
+
+They lexically bind the this value, making it more predictable and avoiding the need for bind, call, or apply.
 
 // ES5
 function add(a, b) {
