@@ -17,7 +17,8 @@ making string interpolation easier and more readable.
 const name = 'John';
 console.log(`Hello, ${name}!`);
 
-3. Destructuring Assignment: Destructuring allows extracting values from arrays or objects into distinct variables, making code more concise.
+3. Destructuring Assignment: Destructuring allows extracting values from arrays or objects into distinct variables, 
+making code more concise.
 
 // Array destructuring
 const [a, b] = [1, 2];
