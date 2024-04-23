@@ -7,7 +7,8 @@ Try Block:
 • The try block is used to enclose the code that might throw an exception.
 • If an exception occurs within the try block, the control immediately jumps to the catch block.
 
-Catch Block:    
+Catch Block:
+-----------
 • The catch block follows the try block and is used to handle exceptions.
 • It takes an error parameter, which represents the error object thrown by the try block.
 • You can specify multiple catch blocks to handle different types of errors.
