@@ -12,6 +12,6 @@ Catch Block:
 • You can specify multiple catch blocks to handle different types of errors.
 
 Finally Block:
-    • The finally block follows the try and catch blocks (if present) and is executed regardless of whether an exception occurred.
+• The finally block follows the try and catch blocks (if present) and is executed regardless of whether an exception occurred.
     • It is commonly used for cleanup tasks such as closing files or releasing resources.
     • The finally block is optional.
