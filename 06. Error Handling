@@ -1,6 +1,6 @@
 # Error Handling
 
-1. Try/Catch/Finally:
+***1. Try/Catch/Finally:
 
 Try Block:
 • The try block is used to enclose the code that might throw an exception.
