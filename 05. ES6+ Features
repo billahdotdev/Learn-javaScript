@@ -81,7 +81,8 @@ export function add(a, b) {
 // main.js
 import { add } from './math.js';
 
-9. Default Parameters: Default function parameters allow parameters to be initialized with default values if no value or undefined is passed.
+9. Default Parameters: Default function parameters allow parameters to be initialized with 
+default values if no value or undefined is passed.
 
 function greet(name = 'Anonymous') {
     console.log(`Hello, ${name}!`);
