@@ -64,4 +64,4 @@ try {
 
 Error Propagation:
 • Error propagation refers to the process of letting errors propagate up the call stack to be handled by higher-level code.
-    • It allows for centralized error handling, reducing redundancy in error handling logic.
+• It allows for centralized error handling, reducing redundancy in error handling logic.
