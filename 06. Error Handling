@@ -67,4 +67,28 @@ Error Propagation:
 • Error propagation refers to the process of letting errors propagate up the call stack to be handled by higher-level code.
 • It allows for centralized error handling, reducing redundancy in error handling logic.
 
+Example:
+
+function fetchDataFromServer() {
+    // Simulating fetching data from a server
+    return null; // Simulating null response from server
+}
+
+function processData(data) {
+    if (!data) {
+        throw new Error("Invalid data");
+    }
+    // Process the data
+}
+
+function fetchDataAndProcess() {
+    try {
+        let data = fetchDataFromServer();
+        processData(data);
+    } catch(error) {
+        console.error("An error occurred while processing data:", error.message);
+    }
+}
+
+fetchDataAndProcess();
 
