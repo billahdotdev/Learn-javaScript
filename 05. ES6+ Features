@@ -11,4 +11,9 @@ return a + b;
 // ES6
 const add = (a, b) => a + b;
 
+2. Template Literals: Template literals allow embedding expressions inside strings, making string interpolation easier and more readable.
+
+const name = 'John';
+console.log(`Hello, ${name}!`);
+
 
