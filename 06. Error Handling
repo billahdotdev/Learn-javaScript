@@ -21,6 +21,7 @@ of whether an exception occurred.
 • The finally block is optional.
 
 Example:
+-------
 
 try {
     // Code that might throw an exception
