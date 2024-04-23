@@ -16,3 +16,16 @@ Finally Block:
 of whether an exception occurred.
 • It is commonly used for cleanup tasks such as closing files or releasing resources.
 • The finally block is optional.
+
+Example:
+
+try {
+    // Code that might throw an exception
+    console.log(undefinedVariable);
+} catch(error) {
+    // Handling the exception
+    console.error("An error occurred:", error);
+} finally {
+    // Cleanup code
+    console.log("This code always runs, regardless of whether there was an error or not.");
+}
