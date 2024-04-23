@@ -55,7 +55,8 @@ function fetchData() {
     });
 }
 
-7. Classes: ES6 introduced class syntax, providing a more familiar and convenient way to create objects and deal with inheritance.
+7. Classes: ES6 introduced class syntax, providing a more familiar and convenient way to 
+create objects and deal with inheritance.
 
 class Person {
     constructor(name) {
