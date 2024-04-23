@@ -44,6 +44,7 @@ throw Statement:
 • It can throw any value, but it's common to throw instances of Error or its subclasses.
 
 Example:
+--------
 
 function checkAge(age) {
     if (age < 0) {
