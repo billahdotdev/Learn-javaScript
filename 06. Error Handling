@@ -1,6 +1,7 @@
 # Error Handling
 
 1. Try/Catch/Finally:
+
 Try Block:
     • The try block is used to enclose the code that might throw an exception.
     • If an exception occurs within the try block, the control immediately jumps to the catch block.
