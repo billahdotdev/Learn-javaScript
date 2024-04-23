@@ -68,6 +68,7 @@ Error Propagation:
 • It allows for centralized error handling, reducing redundancy in error handling logic.
 
 Example:
+--------
 
 function fetchDataFromServer() {
     // Simulating fetching data from a server
