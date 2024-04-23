@@ -10,3 +10,8 @@ Catch Block:
 • The catch block follows the try block and is used to handle exceptions.
 • It takes an error parameter, which represents the error object thrown by the try block.
 • You can specify multiple catch blocks to handle different types of errors.
+
+Finally Block:
+    • The finally block follows the try and catch blocks (if present) and is executed regardless of whether an exception occurred.
+    • It is commonly used for cleanup tasks such as closing files or releasing resources.
+    • The finally block is optional.
