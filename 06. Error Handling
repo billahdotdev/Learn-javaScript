@@ -29,3 +29,6 @@ try {
     // Cleanup code
     console.log("This code always runs, regardless of whether there was an error or not.");
 }
+
+
+2. Throwing Errors:
