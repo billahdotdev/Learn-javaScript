@@ -85,3 +85,29 @@ function greet(name = 'Anonymous') {
 
 greet(); // Outputs: Hello, Anonymous!
 
+10. Iterators and Generators: ES6 introduced new iteration protocols that allow objects to define or customize their iteration behavior, along with generator functions for creating iterators.
+
+// Iterator example
+const iterable = {
+    [Symbol.iterator]() {
+        let step = 0;
+        return {
+            next() {
+                step++;
+                if (step === 1) {
+                    return { value: 'hello', done: false };
+                } else if (step === 2) {
+                    return { value: 'world', done: false };
+                }
+                return { value: undefined, done: true };
+            }
+        };
+    }
+};
+
+// Generator example
+function* generator() {
+    yield 1;
+    yield 2;
+    yield 3;
+}
