@@ -14,4 +14,4 @@ Catch Block:
 Finally Block:
 • The finally block follows the try and catch blocks (if present) and is executed regardless of whether an exception occurred.
 • It is commonly used for cleanup tasks such as closing files or releasing resources.
-    • The finally block is optional.
+• The finally block is optional.
