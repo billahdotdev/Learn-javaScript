@@ -38,3 +38,16 @@ const combined = [...arr1, ...arr2];
 function sum(...numbers) {
     return numbers.reduce((acc, curr) => acc + curr, 0);
 }
+
+6. Promises: Promises provide a cleaner alternative to callback-based asynchronous code, making it easier to reason about and handle asynchronous operations.
+
+function fetchData() {
+    return new Promise((resolve, reject) => {
+        // Asynchronous operation
+        if (success) {
+            resolve(data);
+        } else {
+            reject(error);
+        }
+    });
+}
