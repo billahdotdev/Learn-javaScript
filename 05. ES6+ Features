@@ -66,3 +66,13 @@ class Person {
 
 const person = new Person('John');
 person.greet();
+
+8. Modules: ES6 modules offer a standardized way of organizing and importing/exporting code between different JavaScript files, improving code maintainability and reusability.
+
+// math.js
+export function add(a, b) {
+    return a + b;
+}
+
+// main.js
+import { add } from './math.js';
