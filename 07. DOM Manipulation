@@ -42,6 +42,10 @@ and style of a web page using DOM manipulation techniques.
     • document.querySelectorAll('selector'): Selects all elements that match the CSS selector.
 
 2. Modifying Elements:
+    • element.innerHTML: Gets or sets the HTML content of an element.
+    • element.textContent: Gets or sets the text content of an element.
+    • element.setAttribute('attribute', 'value'): Sets or adds an attribute to an element.
+    • element.style.property = 'value': Modifies the CSS styles of an element.
 
 
 
