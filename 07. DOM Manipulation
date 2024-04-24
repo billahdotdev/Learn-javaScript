@@ -27,3 +27,5 @@ an element node can be the parent of another element node or a text node.
 3. Attributes: Elements can have attributes such as id, class, src, etc. These attributes are also 
 represented as nodes in the DOM tree.
 
+
+
