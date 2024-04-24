@@ -24,5 +24,6 @@ is represented by a node in the DOM tree.
 2. Parent and Child Nodes: Nodes in the DOM tree can have parent-child relationships. For example, 
 an element node can be the parent of another element node or a text node.
 
-3. Attributes: Elements can have attributes such as id, class, src, etc. These attributes are also represented as nodes in the DOM tree.
+3. Attributes: Elements can have attributes such as id, class, src, etc. These attributes are also 
+represented as nodes in the DOM tree.
 
