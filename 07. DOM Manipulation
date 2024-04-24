@@ -47,7 +47,7 @@ and style of a web page using DOM manipulation techniques.
     • element.setAttribute('attribute', 'value'): Sets or adds an attribute to an element.
     • element.style.property = 'value': Modifies the CSS styles of an element.
 
-3.
+3. Creating and Inserting Elements:
 
 
 
