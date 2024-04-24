@@ -19,3 +19,4 @@ This DOM tree serves as an in-memory representation of the document structure.
 *** Key Concepts:
 1. Nodes: Every part of an HTML or XML document, such as elements, attributes, and text, 
 is represented by a node in the DOM tree.
+
