@@ -30,7 +30,8 @@ represented as nodes in the DOM tree.
 4. Traversal: You can navigate through the DOM tree using methods and properties to access and manipulate 
 different parts of the document.
 
-5. Manipulation: You can dynamically modify the content, structure, and style of a web page using DOM manipulation techniques.
+5. Manipulation: You can dynamically modify the content, structure, 
+and style of a web page using DOM manipulation techniques.
 
 
 
