@@ -15,3 +15,4 @@ When a web page is loaded into a browser, the browser parses the HTML markup and
 which consists of nodes representing the elements, attributes, and text content of the page. 
 This DOM tree serves as an in-memory representation of the document structure.
 
+
