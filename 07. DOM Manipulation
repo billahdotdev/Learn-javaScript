@@ -37,7 +37,9 @@ and style of a web page using DOM manipulation techniques.
 *** How to Access Elements in the DOM?
 
 1. Selecting Elements:
-
+    • document.getElementById('id'): Selects an element by its unique id attribute.
+    • document.querySelector('selector'): Selects the first element that matches the CSS selector.
+    • document.querySelectorAll('selector'): Selects all elements that match the CSS selector.
 
 
 
