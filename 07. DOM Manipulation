@@ -9,4 +9,5 @@ which is a tree-like structure that allows scripts to dynamically access and man
 structure, and style of the document. This enables developers to write scripts that can respond to user 
 interactions, update the page dynamically, and create interactive web applications. 
 
+*** How does the DOM work?
 
