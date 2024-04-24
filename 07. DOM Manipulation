@@ -1,4 +1,4 @@
 # DOM Manipulation
-
+What is DOM?
 
 DOM stands for Document Object Model. It's a programming interface for web documents. When a web page is loaded, the browser creates a DOM representation of the page, which is a tree-like structure that allows scripts to dynamically access and manipulate the content, structure, and style of the document. This enables developers to write scripts that can respond to user interactions, update the page dynamically, and create interactive web applications. 
