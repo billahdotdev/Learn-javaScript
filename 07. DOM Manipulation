@@ -60,6 +60,7 @@ and style of a web page using DOM manipulation techniques.
     • element.addEventListener('event', callback): Attaches an event listener to an element.
     • event.target: Refers to the element that triggered the event.
 
+*** Best Practices:
 
 
 
