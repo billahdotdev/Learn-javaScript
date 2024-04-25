@@ -56,7 +56,7 @@ and style of a web page using DOM manipulation techniques.
     • parentElement.removeChild(childElement): Removes a child element from its parent.
     • element.remove(): Removes the element itself from the DOM.
 
-
+5. Event Handling:
 
 
 
