@@ -57,7 +57,8 @@ and style of a web page using DOM manipulation techniques.
     • element.remove(): Removes the element itself from the DOM.
 
 5. Event Handling:
-
+    • element.addEventListener('event', callback): Attaches an event listener to an element.
+    • event.target: Refers to the element that triggered the event.
 
 
 
