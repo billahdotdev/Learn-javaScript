@@ -62,7 +62,8 @@ and style of a web page using DOM manipulation techniques.
 
 *** Best Practices:
 1. Cache DOM Selections: Store frequently accessed elements in variables to avoid repetitive DOM traversals.
-Use Event Delegation: Attach event listeners to parent elements instead of individual child elements for better performance, 
+
+2. Use Event Delegation: Attach event listeners to parent elements instead of individual child elements for better performance, 
 especially when dealing with dynamically added elements.
 
 
