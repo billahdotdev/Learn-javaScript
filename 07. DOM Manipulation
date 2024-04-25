@@ -66,7 +66,8 @@ and style of a web page using DOM manipulation techniques.
 2. Use Event Delegation: Attach event listeners to parent elements instead of individual child elements for 
 better performance, especially when dealing with dynamically added elements.
 
-3. Minimize DOM Manipulation: Batch DOM changes whenever possible to reduce reflows and repaints, which can impact performance.
+3. Minimize DOM Manipulation: Batch DOM changes whenever possible to reduce reflows and repaints, 
+which can impact performance.
 
 4. Cross-Browser Compatibility: Be mindful of differences in browser implementations when using certain DOM methods or properties.
 
