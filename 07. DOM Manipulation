@@ -48,6 +48,9 @@ and style of a web page using DOM manipulation techniques.
     • element.style.property = 'value': Modifies the CSS styles of an element.
 
 3. Creating and Inserting Elements:
+    • document.createElement('tag'): Creates a new HTML element.
+    • parentElement.appendChild(newElement): Appends a new element to an existing element.
+    • parentElement.insertBefore(newElement, referenceElement): Inserts a new element before a specified existing element.
 
 
 
