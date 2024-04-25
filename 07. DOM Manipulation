@@ -68,6 +68,7 @@ especially when dealing with dynamically added elements.
 
 3. Minimize DOM Manipulation: Batch DOM changes whenever possible to reduce reflows and repaints, which can impact performance.
 
+4. Cross-Browser Compatibility: Be mindful of differences in browser implementations when using certain DOM methods or properties.
 
 
 
