@@ -53,7 +53,8 @@ and style of a web page using DOM manipulation techniques.
     • parentElement.insertBefore(newElement, referenceElement): Inserts a new element before a specified existing element.
 
 4. Removing Elements:
-
+    • parentElement.removeChild(childElement): Removes a child element from its parent.
+    • element.remove(): Removes the element itself from the DOM.
 
 
 
