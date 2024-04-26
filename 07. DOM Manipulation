@@ -182,6 +182,7 @@ the event bubbles up to the parent element. Inside the event handler,
 we check if the clicked element (event.target) is a button by inspecting its tag name (tagName). 
 If it is, we perform actions specific to the button clicked.
 
+
 9. Dynamic Content Loading with Fetch API:
 
 // Fetch data from a remote URL
