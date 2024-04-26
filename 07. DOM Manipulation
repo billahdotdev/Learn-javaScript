@@ -106,6 +106,7 @@ const button = document.getElementById('myButton');
 button.addEventListener('click', () => {
   alert('Button clicked!');
 });
+
 Explanation: We select a button element with the id "myButton". Then, we add a click 
 event listener using addEventListener. When the button is clicked, the provided callback function 
 is executed, displaying an alert with the message "Button clicked!".
