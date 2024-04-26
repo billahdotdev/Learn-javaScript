@@ -158,8 +158,10 @@ const referenceItem = document.querySelector('ul li:first-child');
 
 // Inserting the new item before the reference item
 referenceItem.parentNode.insertBefore(newItem, referenceItem);
-Explanation: In this example, we create a new list item element and set its text content. Then, we select the first list item (`
-ul li:first-child) within an unordered list using querySelector. Finally, we use the insertBefore` method to insert the new item before the reference item, effectively adding it to the list.
+Explanation: In this example, we create a new list item element and set its text content. 
+Then, we select the first list item (`ul li:first-child) within an unordered list using querySelector. 
+Finally, we use the insertBefore` method to insert the new item before the reference item, 
+effectively adding it to the list.
 
 
 
