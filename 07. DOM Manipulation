@@ -177,7 +177,8 @@ parentElement.addEventListener('click', function(event) {
     }
 });
 Explanation: This example demonstrates event delegation by attaching a single click event listener 
-to a parent element (parentElement). When a click event occurs on any child element within the parent, the event bubbles up to the parent element. Inside the event handler, we check if the clicked element (event.target) is a button by inspecting its tag name (tagName). If it is, we perform actions specific to the button clicked.
+to a parent element (parentElement). When a click event occurs on any child element within the parent, 
+the event bubbles up to the parent element. Inside the event handler, we check if the clicked element (event.target) is a button by inspecting its tag name (tagName). If it is, we perform actions specific to the button clicked.
 
 
 
