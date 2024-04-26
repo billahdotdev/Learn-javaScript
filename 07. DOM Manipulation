@@ -143,7 +143,8 @@ const image = document.querySelector('img');
 
 // Setting the 'src' attribute to change the image
 image.setAttribute('src', 'newImage.jpg');
-Explanation: Here, we select an image element using querySelector. Then, we use the setAttribute method to change the value of the 'src' attribute, thereby updating the image displayed on the webpage.
+Explanation: Here, we select an image element using querySelector. Then, we use the setAttribute 
+method to change the value of the 'src' attribute, thereby updating the image displayed on the webpage.
 
 
 
