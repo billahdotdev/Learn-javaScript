@@ -74,7 +74,15 @@ certain DOM methods or properties.
 
 *** JavaScript DOM manipulation with explanations:
 
+1. Accessing and Modifying Element Content:
 
+// Accessing an element by its id
+const heading = document.getElementById('myHeading');
+
+// Modifying the text content of the element
+heading.textContent = 'Hello, World!';
+Explanation: In this example, we select an element with the id "myHeading" using getElementById. 
+Then, we modify its text content using the textContent property.
 
 
 
