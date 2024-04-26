@@ -136,7 +136,7 @@ Then, we modify its CSS styles directly using the style property, setting the ba
 color to blue and the font size to 20 pixels.
 
 
-    6. Updating Element Attributes:
+6. Updating Element Attributes:
 
 // Selecting an image element
 const image = document.querySelector('img');
