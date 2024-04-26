@@ -123,7 +123,7 @@ parent.removeChild(child);
 Explanation: Here, we first select both the parent element and the child element to be removed 
 using getElementById. Then, we remove the child element from its parent using removeChild.
 
-    5. Changing Element Styles:
+5. Changing Element Styles:
 
 // Selecting an element by class name
 const element = document.querySelector('.myElement');
