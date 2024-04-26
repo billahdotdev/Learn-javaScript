@@ -110,7 +110,7 @@ Explanation: We select a button element with the id "myButton". Then, we add a c
 event listener using addEventListener. When the button is clicked, the provided callback function 
 is executed, displaying an alert with the message "Button clicked!".
 
-    4. Removing Elements:
+4. Removing Elements:
 
 // Selecting the parent element
 const parent = document.getElementById('parentElement');
