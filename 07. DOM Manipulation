@@ -147,7 +147,7 @@ Explanation: Here, we select an image element using querySelector. Then, we use 
 method to change the value of the 'src' attribute, thereby updating the image displayed on the webpage.
 
 
-    7. Inserting Elements Before Another Element:
+7. Inserting Elements Before Another Element:
 
 // Creating a new list item element
 const newItem = document.createElement('li');
