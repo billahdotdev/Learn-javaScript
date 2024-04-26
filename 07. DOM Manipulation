@@ -199,7 +199,8 @@ fetch('https://api.example.com/data')
   .catch(error => console.error('Error fetching data:', error));
 Explanation: This example demonstrates fetching data from a remote API using the Fetch API. 
 After fetching the data, it is processed and dynamically added to the DOM. In this case, 
-the fetched data (an array of objects) is iterated over, and each item's name property is displayed as a list item within a container element on the webpage.
+the fetched data (an array of objects) is iterated over, and each item's name property is 
+displayed as a list item within a container element on the webpage.
 
 These examples showcase various aspects of JavaScript DOM manipulation, including updating attributes, inserting elements, event delegation, and dynamic content loading.
 
