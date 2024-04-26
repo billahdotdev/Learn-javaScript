@@ -81,6 +81,7 @@ const heading = document.getElementById('myHeading');
 
 // Modifying the text content of the element
 heading.textContent = 'Hello, World!';
+
 Explanation: In this example, we select an element with the id "myHeading" using getElementById. 
 Then, we modify its text content using the textContent property.
 
