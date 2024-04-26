@@ -131,7 +131,9 @@ const element = document.querySelector('.myElement');
 // Changing the background color and font size
 element.style.backgroundColor = 'blue';
 element.style.fontSize = '20px';
-Explanation: We select an element with the class name "myElement" using querySelector. Then, we modify its CSS styles directly using the style property, setting the background color to blue and the font size to 20 pixels.
+Explanation: We select an element with the class name "myElement" using querySelector. 
+Then, we modify its CSS styles directly using the style property, setting the background 
+color to blue and the font size to 20 pixels.
 
 
 
