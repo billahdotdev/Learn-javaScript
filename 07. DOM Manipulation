@@ -120,7 +120,8 @@ const child = document.getElementById('childElement');
 
 // Removing the child element from the parent
 parent.removeChild(child);
-Explanation: Here, we first select both the parent element and the child element to be removed using getElementById. Then, we remove the child element from its parent using removeChild.
+Explanation: Here, we first select both the parent element and the child element to be removed 
+using getElementById. Then, we remove the child element from its parent using removeChild.
 
 
 
