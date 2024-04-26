@@ -84,6 +84,17 @@ heading.textContent = 'Hello, World!';
 Explanation: In this example, we select an element with the id "myHeading" using getElementById. 
 Then, we modify its text content using the textContent property.
 
+    2. Creating and Appending Elements:
+
+// Creating a new paragraph element
+const paragraph = document.createElement('p');
+paragraph.textContent = 'This is a new paragraph.';
+
+// Appending the paragraph to an existing element with id "container"
+const container = document.getElementById('container');
+container.appendChild(paragraph);
+Explanation: Here, we create a new <p> element using createElement and set its text content. Then, we select an existing element with the id "container" and append the newly created paragraph as its child using appendChild.
+
 
 
 
