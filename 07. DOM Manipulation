@@ -97,7 +97,7 @@ Explanation: Here, we create a new <p> element using createElement and set its t
 Then, we select an existing element with the id "container" and append the newly created paragraph 
 as its child using appendChild.
 
-    3. Adding Event Listeners:
+3. Adding Event Listeners:
 
 // Selecting a button element
 const button = document.getElementById('myButton');
