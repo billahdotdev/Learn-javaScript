@@ -41,4 +41,5 @@ and inspecting JavaScript code running in the browser. These tools include conso
 network monitors, JavaScript debuggers, and more.
 
 10. Compatibility: While JavaScript standards are well-defined, browser implementations may vary, leading to 
-compatibility issues. Developers often need to write code that works across different browsers and versions, sometimes requiring polyfills or feature detection techniques.
+compatibility issues. Developers often need to write code that works across different browsers and versions, 
+sometimes requiring polyfills or feature detection techniques.
