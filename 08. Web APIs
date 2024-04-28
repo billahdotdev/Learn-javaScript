@@ -29,3 +29,5 @@ IndexedDB is a more powerful client-side database API that allows developers to 
 data locally in the browser. It provides indexed access to data, making it suitable for applications that require 
 complex data manipulation and querying.
 
+Web Workers:
+Web Workers allow developers to run JavaScript code in background threads, separate from the main execution thread of the browser. This enables tasks such as complex calculations or long-running operations to be performed without blocking the UI, improving responsiveness and performance.
