@@ -18,7 +18,8 @@ const greet = function(name) {
   ◦ Arguments: Values passed to the function when it's called.
 
 3. Anonymous Functions:
-    ◦ Functions without a name. Often used as arguments to other functions or as IIFE (Immediately Invoked Function Expression).
+    ◦ Functions without a name. Often used as arguments to other functions or as IIFE 
+(Immediately Invoked Function Expression).
   
    setTimeout(function() {
        console.log('This is an anonymous function');
