@@ -21,6 +21,7 @@ data from servers, performing animations, and executing code without blocking th
 servers without reloading the entire page. This is often done using the XMLHttpRequest object or the newer fetch API.
 
 5. Manipulating CSS: JavaScript can manipulate CSS styles dynamically, allowing for changes in appearance and layout 
-based on user interactions or other events. This can be done by accessing and modifying the style property of DOM elements or by adding/removing CSS classes.
+based on user interactions or other events. This can be done by accessing and modifying the style property of 
+DOM elements or by adding/removing CSS classes.
 
 
