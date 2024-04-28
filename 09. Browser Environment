@@ -17,6 +17,7 @@ these events, enabling interactive user interfaces.
 mechanisms like callbacks, Promises, and async/await syntax. This is crucial for handling tasks such as fetching 
 data from servers, performing animations, and executing code without blocking the main thread.
 
+AJAX (Asynchronous JavaScript and XML): JavaScript enables making asynchronous HTTP requests to fetch data from servers without reloading the entire page. This is often done using the XMLHttpRequest object or the newer fetch API.
 
 
 
