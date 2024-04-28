@@ -14,5 +14,8 @@ elements, attributes, and styles dynamically, enabling the creation of responsiv
 JavaScript Web APIs provide mechanisms for handling user interactions and browser events. Developers can attach event 
 listeners to DOM elements and respond to events such as clicks, keyboard inputs, and form submissions.
 
+XMLHttpRequest and Fetch:
+These APIs facilitate making HTTP requests from the browser. XMLHttpRequest has been around for a long time and is widely supported, while Fetch is a newer, more modern API that offers a more flexible and promise-based approach to handling network requests.
+
 
 
