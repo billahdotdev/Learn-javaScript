@@ -10,6 +10,6 @@ Let's delve into some of the key JavaScript Web APIs:
 The DOM API allows JavaScript to interact with the structure of HTML and XML documents. Developers can manipulate 
 elements, attributes, and styles dynamically, enabling the creation of responsive and interactive web pages.
 
-Event Handling:
+2. Event Handling:
 JavaScript Web APIs provide mechanisms for handling user interactions and browser events. Developers can attach event 
 listeners to DOM elements and respond to events such as clicks, keyboard inputs, and form submissions.
