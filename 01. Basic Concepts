@@ -113,7 +113,8 @@ let numbers = [1, 2, 3, 4, 5];
 let mixedArray = [1, 'two', true];
 
 Special Data Types:
-• Function: Functions are first-class citizens in JavaScript. They can be assigned to variables, passed as arguments, and returned from other functions.
+• Function: Functions are first-class citizens in JavaScript. They can be assigned to variables, 
+passed as arguments, and returned from other functions.
 const add = function(a, b) {
     return a + b;
 };
