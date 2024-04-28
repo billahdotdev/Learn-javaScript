@@ -9,7 +9,7 @@ that webpage. The browser then interprets and executes the JavaScript code withi
 the Document Object Model (DOM). The DOM represents the structure of HTML and XML documents, 
 and JavaScript can modify it dynamically, allowing for interactive and dynamic web pages.
 
-Event Handling: JavaScript enables the handling of various events triggered by user actions (e.g., clicks, keypresses, mouse movements). Event listeners can be attached to DOM elements to respond to these events, enabling interactive user interfaces.
+2. Event Handling: JavaScript enables the handling of various events triggered by user actions (e.g., clicks, keypresses, mouse movements). Event listeners can be attached to DOM elements to respond to these events, enabling interactive user interfaces.
 
 
 
