@@ -20,6 +20,8 @@ widely supported, while Fetch is a newer, more modern API that offers a more fle
 approach to handling network requests.
 
 Web Storage:
-Web Storage APIs (localStorage and sessionStorage) allow developers to store key-value pairs locally in the user's browser. This enables the creation of applications that can persist data across sessions or tabs without relying on server-side storage.
+Web Storage APIs (localStorage and sessionStorage) allow developers to store key-value pairs locally in the 
+user's browser. This enables the creation of applications that can persist data across 
+sessions or tabs without relying on server-side storage.
 
 
