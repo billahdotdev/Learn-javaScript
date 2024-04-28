@@ -25,7 +25,8 @@ const person2 = new Person('Alice', 25);
 2. Prototypes:
   ◦ In JavaScript, every object has an internal link to another object called its prototype. 
 This prototype object, in turn, may also have a prototype, creating a prototype chain.
-  ◦ When you try to access a property or method of an object, JavaScript first looks for it on the object itself. If it doesn't find it, it continues to search up the prototype chain until it finds the property or until it reaches the end of the chain (the prototype of Object).
+  ◦ When you try to access a property or method of an object, JavaScript first looks for it on 
+the object itself. If it doesn't find it, it continues to search up the prototype chain until it finds the property or until it reaches the end of the chain (the prototype of Object).
   ◦ Prototypes enable inheritance in JavaScript, allowing objects to inherit properties and methods from their prototypes.
  
  // Adding a method to the prototype
