@@ -34,5 +34,5 @@ Web Workers allow developers to run JavaScript code in background threads, separ
 execution thread of the browser. This enables tasks such as complex calculations or 
 long-running operations to be performed without blocking the UI, improving responsiveness and performance.
 
-Canvas and WebGL:
+7. Canvas and WebGL:
 Canvas provides a drawing API for dynamically rendering graphics, animations, and charts directly in the browser using JavaScript. WebGL is a JavaScript API for rendering 2D and 3D graphics using the GPU, enabling high-performance graphics and visualizations within web applications.
