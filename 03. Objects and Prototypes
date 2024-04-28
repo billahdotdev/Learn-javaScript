@@ -55,7 +55,8 @@ finds the property or until it reaches the end of the chain (the prototype of Ob
  student.greet(); // Output: Hello, my name is Bob!
 
 4. Class Syntax (ES6):
-  ◦ ES6 introduced a class syntax that simplifies the creation of objects with constructors and inheritance, although under the hood, it still uses prototypes.
+  ◦ ES6 introduced a class syntax that simplifies the creation of objects with constructors and inheritance, 
+although under the hood, it still uses prototypes.
  
  class Person {
      constructor(name, age) {
