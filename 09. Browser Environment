@@ -32,7 +32,7 @@ the Browser Object Model (BOM), which provides objects and methods for interacti
 Canvas API, Web Storage API, Web Audio API, etc. These APIs allow developers to access browser features and 
 interact with the user's device.
 
-
+Security Restrictions: JavaScript running in the browser is subject to security restrictions to prevent malicious activities like cross-site scripting (XSS) attacks. For example, JavaScript from one origin typically cannot access the DOM of a page from another origin due to the same-origin policy.
 
 
 
