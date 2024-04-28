@@ -24,5 +24,6 @@ Web Storage APIs (localStorage and sessionStorage) allow developers to store key
 user's browser. This enables the creation of applications that can persist data across 
 sessions or tabs without relying on server-side storage.
 
-
+IndexedDB:
+IndexedDB is a more powerful client-side database API that allows developers to store larger amounts of structured data locally in the browser. It provides indexed access to data, making it suitable for applications that require complex data manipulation and querying.
 
