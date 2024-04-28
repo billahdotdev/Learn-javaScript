@@ -40,5 +40,6 @@ using JavaScript. WebGL is a JavaScript API for rendering 2D and 3D graphics usi
 enabling high-performance graphics and visualizations within web applications.
 
 8. Geolocation:
-Geolocation APIs allow web applications to access the user's geographical location using the browser's built-in location services. This enables location-based features such as mapping, local search, and location-aware content.
+Geolocation APIs allow web applications to access the user's geographical location using the browser's 
+built-in location services. This enables location-based features such as mapping, local search, and location-aware content.
 
