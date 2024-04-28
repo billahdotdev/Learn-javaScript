@@ -25,7 +25,8 @@ based on user interactions or other events. This can be done by accessing and mo
 DOM elements or by adding/removing CSS classes.
 
 6. Browser Object Model (BOM): Apart from the DOM, JavaScript in the browser also has access to 
-the Browser Object Model (BOM), which provides objects and methods for interacting with the browser window itself (e.g., managing history, controlling the location, handling cookies).
+the Browser Object Model (BOM), which provides objects and methods for interacting with the browser window itself 
+(e.g., managing history, controlling the location, handling cookies).
 
 
 
