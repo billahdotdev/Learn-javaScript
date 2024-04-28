@@ -5,3 +5,6 @@ and capabilities of web browsers. These APIs provide functionality beyond what i
 enabling developers to create dynamic and interactive web applications. 
 Let's delve into some of the key JavaScript Web APIs:
 
+
+Document Object Model (DOM):
+The DOM API allows JavaScript to interact with the structure of HTML and XML documents. Developers can manipulate elements, attributes, and styles dynamically, enabling the creation of responsive and interactive web pages.
