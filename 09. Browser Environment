@@ -24,6 +24,7 @@ servers without reloading the entire page. This is often done using the XMLHttpR
 based on user interactions or other events. This can be done by accessing and modifying the style property of 
 DOM elements or by adding/removing CSS classes.
 
+Browser Object Model (BOM): Apart from the DOM, JavaScript in the browser also has access to the Browser Object Model (BOM), which provides objects and methods for interacting with the browser window itself (e.g., managing history, controlling the location, handling cookies).
 
 
 
