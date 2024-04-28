@@ -1,3 +1,5 @@
 # Browser Environment
 
-The JavaScript browser environment refers to the runtime environment provided by web browsers for executing JavaScript code. When you visit a website, the browser downloads HTML, CSS, and JavaScript files associated with that webpage. The browser then interprets and executes the JavaScript code within its environment.
+The JavaScript browser environment refers to the runtime environment provided by web browsers for executing JavaScript code. 
+When you visit a website, the browser downloads HTML, CSS, and JavaScript files associated with that webpage. 
+The browser then interprets and executes the JavaScript code within its environment.
