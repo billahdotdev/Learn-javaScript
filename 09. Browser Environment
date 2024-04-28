@@ -28,7 +28,7 @@ DOM elements or by adding/removing CSS classes.
 the Browser Object Model (BOM), which provides objects and methods for interacting with the browser window itself 
 (e.g., managing history, controlling the location, handling cookies).
 
-Web APIs: Modern browsers expose various APIs beyond the core JavaScript language, such as the Geolocation API, Canvas API, Web Storage API, Web Audio API, etc. These APIs allow developers to access browser features and interact with the user's device.
+7. Web APIs: Modern browsers expose various APIs beyond the core JavaScript language, such as the Geolocation API, Canvas API, Web Storage API, Web Audio API, etc. These APIs allow developers to access browser features and interact with the user's device.
 
 
 
