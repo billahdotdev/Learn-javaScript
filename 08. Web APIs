@@ -16,7 +16,8 @@ listeners to DOM elements and respond to events such as clicks, keyboard inputs,
 
 3. XMLHttpRequest and Fetch:
 These APIs facilitate making HTTP requests from the browser. XMLHttpRequest has been around for a long time and is 
-widely supported, while Fetch is a newer, more modern API that offers a more flexible and promise-based approach to handling network requests.
+widely supported, while Fetch is a newer, more modern API that offers a more flexible and promise-based 
+approach to handling network requests.
 
 
 
