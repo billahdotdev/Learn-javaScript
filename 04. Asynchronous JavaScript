@@ -12,7 +12,8 @@ This flexibility helps make your programs more responsive and efficient.
 ◦ They are invoked (or called back) at some point in the future, typically after an asynchronous operation has completed.
 
 2. How are callbacks used?
-◦ In asynchronous operations, such as fetching data from a server or reading a file, you provide a callback function to execute once the operation is finished.
+◦ In asynchronous operations, such as fetching data from a server or reading a file, 
+you provide a callback function to execute once the operation is finished.
 ◦ This allows you to continue with other tasks while waiting for the asynchronous operation to complete.
 
 Example:
