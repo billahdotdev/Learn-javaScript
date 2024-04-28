@@ -159,7 +159,8 @@ Comparison operators are used to compare values.
 • Identity (===): Returns true if the operands are equal and of the same type.
 • Inequality (!=): Returns true if the operands are not equal.
 • Strict Inequality (!==): Returns true if the operands are not equal or not of the same type.
-• Greater Than (>) and Greater Than or Equal To (>=): Return true if the left operand is greater than (or equal to) the right operand.
+• Greater Than (>) and Greater Than or Equal To (>=): Return true if the left operand is 
+greater than (or equal to) the right operand.
 • Less Than (<) and Less Than or Equal To (<=): Return true if the left operand is less than (or equal to) the right operand.
 console.log(5 == "5"); // true
 console.log(5 === "5"); // false
