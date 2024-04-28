@@ -1,6 +1,7 @@
 //Objects and Prototypes
 1. Objects:
-◦ In JavaScript, objects are collections of key-value pairs, where the keys are strings (or Symbols) and the values can be of any data type.
+◦ In JavaScript, objects are collections of key-value pairs, where the keys are strings (or Symbols) 
+and the values can be of any data type.
 ◦ Objects can be created using either object literals {}, the new Object() syntax, or by instantiating custom constructor functions using the new keyword.
 
 // Object literal
