@@ -23,7 +23,8 @@ function myFunction() {
 }
 myFunction();
 // console.log(localVar); // Error: localVar is not defined
-• Block Scope: Variables declared with let and const are block-scoped, meaning they are only accessible within the block (enclosed by {}) in which they are defined.
+• Block Scope: Variables declared with let and const are block-scoped, meaning they are only accessible within 
+the block (enclosed by {}) in which they are defined.
 if (true) {
     let blockVar = 20;
     console.log(blockVar); // Output: 20
