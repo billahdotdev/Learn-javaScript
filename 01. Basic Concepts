@@ -11,7 +11,8 @@ due to its block-level scoping.
 let x = 10;
 
 • Scope:
-• Global Scope: Variables declared outside of any function or block have global scope and can be accessed from anywhere in the code.
+• Global Scope: Variables declared outside of any function or block have global scope and can be 
+accessed from anywhere in the code.
 var globalVar = 5;
 console.log(globalVar); // Output: 5
 
