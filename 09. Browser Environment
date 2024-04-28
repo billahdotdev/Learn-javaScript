@@ -36,5 +36,6 @@ interact with the user's device.
 malicious activities like cross-site scripting (XSS) attacks. For example, JavaScript from one origin typically 
 cannot access the DOM of a page from another origin due to the same-origin policy.
 
-9. Debugging and Development Tools: Browsers provide developer tools that allow debugging, profiling, and inspecting JavaScript code running in the browser. These tools include consoles for logging messages, network monitors, JavaScript debuggers, and more.
+9. Debugging and Development Tools: Browsers provide developer tools that allow debugging, profiling, 
+and inspecting JavaScript code running in the browser. These tools include consoles for logging messages, network monitors, JavaScript debuggers, and more.
 
