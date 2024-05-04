@@ -95,3 +95,8 @@ and function composition.
           // Function composition
           const addAndMultiplyBy2 = (a, b) => multiplyBy2(add(a, b));
           console.log(addAndMultiplyBy2(1, 2)); // Output: 6
+
+• Performance Optimization Techniques:
+◦ Definition: Performance optimization techniques involve improving the speed and efficiency of JavaScript code to enhance user experience and reduce resource consumption.
+◦ Strategies: Use of algorithms and data structures, minimizing DOM manipulation, optimizing loops, reducing function calls, caching, lazy loading, and minimizing network requests.
+◦ Example:
