@@ -20,3 +20,4 @@ private variables, and maintaining state in functional programming.
           increment(); // Output: 1
           increment(); // Output: 2
 
+
