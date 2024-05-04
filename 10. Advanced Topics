@@ -64,3 +64,7 @@ heavy computations or expensive operations.
           console.log(memoizedAdd(2, 3)); // Output: 5 (result retrieved from cache)
 
 
+• Functional Programming Concepts:
+◦ Definition: Functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data.
+◦ Core concepts: Immutable data, pure functions, higher-order functions, and function composition.
+◦ Example:
