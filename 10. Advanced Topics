@@ -1,7 +1,9 @@
 *** Advanced Topics
 
 • Closures:
-◦ Definition: Closures occur when a function is able to remember and access its lexical scope even when it's executed outside that scope.
-◦ Use cases: Closures are commonly used for data encapsulation, creating private variables, and maintaining state in functional programming.
+◦ Definition: Closures occur when a function is able to remember and access its lexical 
+scope even when it's executed outside that scope.
+◦ Use cases: Closures are commonly used for data encapsulation, creating 
+private variables, and maintaining state in functional programming.
 ◦ Example:
 
