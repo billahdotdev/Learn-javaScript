@@ -73,4 +73,25 @@ and function composition.
 
 ◦ Example:
 
-
+          // Pure function
+          function add(a, b) {
+              return a + b;
+          }
+          
+          // Immutable data
+          const numbers = [1, 2, 3, 4, 5];
+          const doubledNumbers = numbers.map(num => num * 2);
+          console.log(doubledNumbers); // Output: [2, 4, 6, 8, 10]
+          
+          // Higher-order function
+          function multiplyBy(factor) {
+              return function(num) {
+                  return num * factor;
+              };
+          }
+          const multiplyBy2 = multiplyBy(2);
+          console.log(multiplyBy2(3)); // Output: 6
+          
+          // Function composition
+          const addAndMultiplyBy2 = (a, b) => multiplyBy2(add(a, b));
+          console.log(addAndMultiplyBy2(1, 2)); // Output: 6
