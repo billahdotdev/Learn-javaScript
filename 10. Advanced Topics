@@ -39,4 +39,7 @@ code reuse, and creating specialized versions of functions.
           const add5 = addCurried(5);
           console.log(add5(3)); // Output: 8
 
-
+• Memoization:
+◦ Definition: Memoization is a technique used to cache the results of expensive function calls and return the cached result when the same inputs occur again.
+◦ Use cases: Memoization is useful for optimizing functions that perform heavy computations or expensive operations.
+◦ Example:
