@@ -20,4 +20,7 @@ private variables, and maintaining state in functional programming.
           increment(); // Output: 1
           increment(); // Output: 2
 
-
+• Currying and Partial Application:
+◦ Definition: Currying is the process of converting a function with multiple arguments into a series of functions, each taking a single argument. Partial application is a technique where a function is applied to some of its arguments, returning a new function that takes the remaining arguments.
+◦ Use cases: Currying and partial application enable function composition, code reuse, and creating specialized versions of functions.
+◦ Example:
