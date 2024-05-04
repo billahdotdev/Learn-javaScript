@@ -38,3 +38,5 @@ code reuse, and creating specialized versions of functions.
           const addCurried = (a) => (b) => a + b;
           const add5 = addCurried(5);
           console.log(add5(3)); // Output: 8
+
+
