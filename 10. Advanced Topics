@@ -5,5 +5,16 @@
 scope even when it's executed outside that scope.
 ◦ Use cases: Closures are commonly used for data encapsulation, creating 
 private variables, and maintaining state in functional programming.
+
 ◦ Example:
+          function outer() {
+              let count = 0;
+              return function inner() {
+                  count++;
+                  console.log(count);
+              }
+          }
+          const increment = outer();
+          increment(); // Output: 1
+          increment(); // Output: 2
 
