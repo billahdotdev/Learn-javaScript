@@ -86,7 +86,7 @@
 
 • Canvas API: Drawing graphics dynamically.
 
-## 09. Browser Environment:
+[09. Browser Environment:]()
 
 • Window Object: Properties and methods related to the browser window.
 
