@@ -66,7 +66,7 @@
 • Error Propagation: Dealing with errors in asynchronous code.
 
 
-## 7. DOM Manipulation:
+[7. DOM Manipulation:]()
 
 • Accessing Elements: document.getElementById(), document.querySelector().
 
