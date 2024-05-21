@@ -96,7 +96,7 @@
 
 • Geolocation API: Retrieving user's geographical location.
 
-## 10. Advanced Topics:
+[10. Advanced Topics:]()
 
 • ES Modules: Deeper understanding of JavaScript modules.
 
