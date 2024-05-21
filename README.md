@@ -3,7 +3,7 @@
 ## 1. Basic Concepts:   
 
    
-• Variables: Declarations, scopes, hoisting.
+[• Variables: Declarations, scopes, hoisting.](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts)
 
 • Data Types: Primitive types (number, string, boolean, null, undefined, symbol), objects.
 
