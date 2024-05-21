@@ -22,7 +22,7 @@
 • Higher-Order Functions: Functions as first-class citizens, callbacks, function composition.
 
 
-## 3. Objects and Prototypes:
+[3. Objects and Prototypes:]()
 
 • Object Creation: Object literals, constructor functions, classes (ES6).
 
