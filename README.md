@@ -76,7 +76,7 @@
 
 • Traversal: Navigating the DOM tree.
 
-## 08. Web APIs:
+[08. Web APIs:]()
 
 • Fetch API: Making HTTP requests.
 
