@@ -43,7 +43,7 @@
 
 • Event Loop: Understanding the event-driven nature of JavaScript, the call stack, and the event queue.
 
-[5. ES6+ Features:]()
+[5. ES6+ Features:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/05.%20ES6%2B%20Features)
 
 • let, const: Block-scoped variables, immutability.
 
