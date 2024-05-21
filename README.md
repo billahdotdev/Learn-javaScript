@@ -11,7 +11,7 @@
 
 • Control Structures: Conditional statements (if-else, switch...case), loops (for, while, do-while).
    
-## 2. Functions:
+[2. Functions:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/02.%20Functions)
 
 • Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.
 
