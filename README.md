@@ -5,9 +5,9 @@
    
 [• Variables: Declarations, scopes, hoisting.](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts)
 
-[• Data Types: Primitive types (number, string, boolean, null, undefined, symbol), objects.]](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts)
+[• Data Types: Primitive types (number, string, boolean, null, undefined, symbol), objects.](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts)
 
-[• Operators: Arithmetic, comparison, logical, assignment, bit-wise.]](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts)
+[• Operators: Arithmetic, comparison, logical, assignment, bit-wise.](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts)
 
 [• Control Structures: Conditional statements (if-else, switch...case), loops (for, while, do-while).](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts)
    
