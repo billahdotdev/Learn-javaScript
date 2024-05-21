@@ -57,7 +57,7 @@
 
 • Modules: Import/export syntax for modularization.
 
-## 6. Error Handling:
+[6. Error Handling:]()
 
 • try/catch/finally: Handling errors gracefully.
 
