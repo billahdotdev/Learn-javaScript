@@ -38,6 +38,8 @@ This command will create a package.json file, which holds metadata about your pr
         npm install <package-name>
 This installs the package and adds it to your node_modules directory. To save it as a dependency in your package.json:
 
+        npm install <package-name> --save
+
 
 
 
