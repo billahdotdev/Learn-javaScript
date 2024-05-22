@@ -8,22 +8,22 @@ package managers are npm (Node Package Manager) and Yarn. Here’s an in-depth l
 managers, their features and how to use them.
 
 
-* npm (Node Package Manager)
-----------------------------
+** npm (Node Package Manager)
+-----------------------------
 npm is the default package manager for Node.js, and it is the largest software registry. It allows developers to 
 install, share, and manage dependencies in their projects.
 
-Key Features:
+* Key Features:
 1. Extensive Registry: Hosts over a million packages.
 2. Version Control: Manages versions and dependencies of packages.
 3. Scripts: Allows you to define scripts for various tasks like testing, building, and deploying.
 4. Configurable: Various configuration options for proxies, registry settings, and authentication.
 
 
-Installing npm
+* Installing npm
 npm is bundled with Node.js. To install Node.js (and npm), you can download it from nodejs.org.
 
-Verify the installation:
+* Verify the installation:
 
                   node -v
                   npm -v
