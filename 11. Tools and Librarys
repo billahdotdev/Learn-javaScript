@@ -40,6 +40,10 @@ This installs the package and adds it to your node_modules directory. To save it
 
         npm install <package-name> --save
 
+For development dependencies:
+
+        npm install <package-name> --save-dev
+
 
 
 
