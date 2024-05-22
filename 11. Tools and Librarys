@@ -49,6 +49,14 @@ For development dependencies:
 npm install -g <package-name>
 This installs the package globally, making it accessible from anywhere on your system.
 
+Running Scripts
+You can define scripts in package.json under the scripts field:
+
+        "scripts": {
+          "start": "node app.js",
+          "test": "mocha"
+        }
+
 
 
 
