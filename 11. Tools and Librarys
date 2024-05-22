@@ -12,3 +12,9 @@ managers, their features and how to use them.
 ----------------------------
 npm is the default package manager for Node.js, and it is the largest software registry. It allows developers to 
 install, share, and manage dependencies in their projects.
+
+Key Features:
+1. Extensive Registry: Hosts over a million packages.
+2. Version Control: Manages versions and dependencies of packages.
+3. Scripts: Allows you to define scripts for various tasks like testing, building, and deploying.
+4. Configurable: Various configuration options for proxies, registry settings, and authentication.
