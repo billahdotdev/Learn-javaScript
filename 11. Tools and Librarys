@@ -58,7 +58,9 @@ You can define scripts in package.json under the scripts field:
         }
 
 
+* Run a script:
 
+        npm run start
 
 
 
