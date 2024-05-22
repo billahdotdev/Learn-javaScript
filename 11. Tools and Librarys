@@ -20,10 +20,15 @@ install, share, and manage dependencies in their projects.
 4. Configurable: Various configuration options for proxies, registry settings, and authentication.
 
 
-* Installing npm
+1. Installing npm
 npm is bundled with Node.js. To install Node.js (and npm), you can download it from nodejs.org.
 
 * Verify the installation:
 
                   node -v
                   npm -v
+
+2. Initializing a Project
+
+                  npm init
+This command will create a package.json file, which holds metadata about your project and its dependencies.
