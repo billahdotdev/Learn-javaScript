@@ -67,5 +67,10 @@ You can define scripts in package.json under the scripts field:
         npm update <package-name>
 
 
+7. Uninstalling Packages
+
+        npm uninstall <package-name>
+
+
 
 
