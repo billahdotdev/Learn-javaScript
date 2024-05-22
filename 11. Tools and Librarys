@@ -71,6 +71,15 @@ You can define scripts in package.json under the scripts field:
 
         npm uninstall <package-name>
 
+* Advanced Features
+
+1. Shrinkwrap (package-lock.json): Locks down the versions of a project's dependencies to ensure consistent installs.
+2. Scopes: Namespaces for packages (e.g., @my-org/my-package).
+3. Private Packages: Hosting private packages for internal use.
+4. Audit: Security audit for dependencies.
+
+        npm audit
+
 
 
 
