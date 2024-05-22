@@ -1,7 +1,7 @@
 # Tools and Libraries
 
 
-> Package Managers: npm, Yarn.
+*** Package Managers: npm, Yarn.
 
 JavaScript package managers are essential tools for managing dependencies in your projects. Two of the most popular package managers are npm (Node Package Manager) and Yarn. Here’s an in-depth look at both of these package managers, their features, and how to use them.
 
