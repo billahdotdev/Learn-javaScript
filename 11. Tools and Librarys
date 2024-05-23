@@ -133,3 +133,8 @@ Similar to npm, you can define scripts in package.json:
 
         yarn upgrade <package-name>
 
+
+7. Uninstalling Packages
+
+        yarn remove <package-name>
+
