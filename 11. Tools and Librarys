@@ -112,3 +112,11 @@ Verify the installation:
 This creates a package.json file for your project.
 
 
+3. Installing Packages
+
+        yarn add <package-name>
+
+For development dependencies:
+
+        yarn add <package-name> --dev
+
