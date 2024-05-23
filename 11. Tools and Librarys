@@ -85,6 +85,8 @@ You can define scripts in package.json under the scripts field:
 Yarn
 ----
 
+Yarn was developed by Facebook to address some shortcomings of npm, such as performance, security, and consistency. 
+It is also used to manage dependencies in your projects.
 
 
 
