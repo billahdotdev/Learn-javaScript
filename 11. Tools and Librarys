@@ -106,4 +106,9 @@ Verify the installation:
 
         yarn -v
 
+2. Initializing a Project
+
+        yarn init
+This creates a package.json file for your project.
+
 
