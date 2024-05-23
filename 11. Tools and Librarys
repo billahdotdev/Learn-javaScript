@@ -88,7 +88,11 @@ Yarn
 Yarn was developed by Facebook to address some shortcomings of npm, such as performance, security, and consistency. 
 It is also used to manage dependencies in your projects.
 
-
+* Key Features
+1. Speed: Faster installations due to parallelization and caching.
+2. Deterministic Installs: Ensures the same dependency tree structure across different installations.
+3. Offline Mode: Can install dependencies even when offline if they were installed before.
+4. Workspaces: Manage multiple packages within a single repository.
 
 
 
