@@ -7,7 +7,7 @@ JavaScript package managers are essential tools for managing dependencies in you
 package managers are npm (Node Package Manager) and Yarn. Here’s an in-depth look at both of these package 
 managers, their features and how to use them.
 
-
+-----------------------------
 ** npm (Node Package Manager)
 -----------------------------
 npm is the default package manager for Node.js, and it is the largest software registry. It allows developers to 
@@ -79,6 +79,13 @@ You can define scripts in package.json under the scripts field:
 4. Audit: Security audit for dependencies.
 
         npm audit
+
+
+----
+Yarn
+----
+
+
 
 
 
