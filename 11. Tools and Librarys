@@ -95,4 +95,15 @@ It is also used to manage dependencies in your projects.
 4. Workspaces: Manage multiple packages within a single repository.
 
 
+* Basic Usage
+
+1. Installing Yarn
+You can install Yarn using npm:
+
+        npm install -g yarn
+
+Verify the installation:
+
+        yarn -v
+
 
