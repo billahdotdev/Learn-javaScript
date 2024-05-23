@@ -129,3 +129,7 @@ Similar to npm, you can define scripts in package.json:
 
         yarn run <script-name>
 
+6. Updating Packages
+
+        yarn upgrade <package-name>
+
