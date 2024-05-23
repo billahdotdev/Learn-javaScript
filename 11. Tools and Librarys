@@ -138,3 +138,13 @@ Similar to npm, you can define scripts in package.json:
 
         yarn remove <package-name>
 
+
+* Advanced Features
+1. Lockfile (yarn.lock): Ensures the same versions of dependencies are installed across different environments.
+2. Workspaces: Monorepo support, allowing you to manage multiple packages within a single repository.
+
+        "workspaces": [
+          "packages/*"
+        ]
+
+3. Plug'n'Play (PnP): Resolves dependencies faster by avoiding the need for node_modules.
