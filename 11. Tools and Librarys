@@ -148,3 +148,11 @@ Similar to npm, you can define scripts in package.json:
         ]
 
 3. Plug'n'Play (PnP): Resolves dependencies faster by avoiding the need for node_modules.
+
+
+* Comparison: npm vs Yarn
+
+1. Speed: Yarn is generally faster due to its caching and parallel installation mechanisms.
+2. Consistency: Yarn ensures consistent dependency tree structures across different environments with its lockfile.
+3. Workspaces: Yarn provides built-in support for monorepos with workspaces.
+4. Security: Yarn has more robust security features out of the box, such as checksums for verifying package integrity.
