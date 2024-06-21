@@ -15,7 +15,7 @@
 
 • Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.
 
-• Parameters and Arguments: Default parameters, rest parameters, spread syntax.
+• Parameters and Arguments: Default parameters, rest parameters, spread syntax.  
 
 • Closures: Scope chain, lexical scoping, closures, and memory management.  
 
