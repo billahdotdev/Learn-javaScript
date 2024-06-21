@@ -104,7 +104,7 @@
 
 • Design Patterns: Common patterns like Singleton, Observer, and Factory. 
 
-• Performance Optimization: Reducing memory usage, optimizing code execution.
+• Performance Optimization: Reducing memory usage, and optimizing code execution.
 
 [11. Tools and Libraries:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/11.%20Tools%20and%20Librarys)
 
