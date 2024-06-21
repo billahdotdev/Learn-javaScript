@@ -72,7 +72,7 @@
 
 • Manipulating Elements: Changing content, styles, and attributes.
 
-• Event Handling: Adding event listeners, responding to user actions.  
+• Event Handling: Adding event listeners, and responding to user actions.  
 
 • Traversal: Navigating the DOM tree.
 
