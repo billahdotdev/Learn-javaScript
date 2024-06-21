@@ -37,7 +37,7 @@
    
 • Callbacks: Handling asynchronous operations with callbacks.
 
-• Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.
+• Promises: Promise states (pending, fulfilled, rejected), chaining, error handling.  
 
 • Async/Await: Syntactic sugar for promises, async functions, await keyword.
 
