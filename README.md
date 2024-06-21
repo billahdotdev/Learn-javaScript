@@ -19,7 +19,7 @@
 
 • Closures: Scope chain, lexical scoping, closures, and memory management.  
 
-• Higher-Order Functions: Functions as first-class citizens, callbacks, function composition.  
+• Higher-Order Functions: Functions as first-class citizens, callbacks, function composition.    
 
 
 [3. Objects and Prototypes:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/03.%20Objects%20and%20Prototypes)
