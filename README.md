@@ -13,7 +13,7 @@
    
 [2. Functions:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/02.%20Functions)
 
-• Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.  
+• Function Declarations and Expressions: Named functions, anonymous functions, arrow functions.
 
 • Parameters and Arguments: Default parameters, rest parameters, spread syntax.
 
