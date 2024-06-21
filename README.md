@@ -98,7 +98,7 @@
 
 [10. Advanced Topics:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/10.%20Advanced%20Topics)
 
-• ES Modules: Deeper understanding of JavaScript modules.
+• ES Modules: A deeper understanding of JavaScript modules.
 
 • Functional Programming: Immutability, higher-order functions, pure functions.
 
