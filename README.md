@@ -70,7 +70,7 @@
 
 • Accessing Elements: document.getElementById(), document.querySelector().
 
-• Manipulating Elements: Changing content, styles, attributes.
+• Manipulating Elements: Changing content, styles, and attributes.
 
 • Event Handling: Adding event listeners, responding to user actions.  
 
