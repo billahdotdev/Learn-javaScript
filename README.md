@@ -57,7 +57,7 @@
 
 • Modules: Import/export syntax for modularization.
 
-[6. Error Handling:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/06.%20Error%20Handling)
+[6. Error Handling:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/06.%20Error%20Handling)    
 
 • try/catch/finally: Handling errors gracefully.
 
