@@ -94,7 +94,7 @@
 
 • Cookies: Reading and writing cookies.
 
-• Geolocation API: Retrieving user's geographical location.
+• Geolocation API: Retrieving the user's geographical location.
 
 [10. Advanced Topics:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/10.%20Advanced%20Topics)
 
