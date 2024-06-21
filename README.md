@@ -5,7 +5,7 @@
    
 • Variables: Declarations, scopes, hoisting.   
 
-• Data Types: Primitive types (number, string, boolean, null, undefined, symbol), objects.
+• Data Types: Primitive types (number, string, boolean, null, undefined, symbol), objects.  
 
 • Operators: Arithmetic, comparison, logical, assignment, bit-wise.
 
