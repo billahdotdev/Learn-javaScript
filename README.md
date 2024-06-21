@@ -7,7 +7,7 @@
 
 • Data Types: Primitive types (number, string, boolean, null, undefined, symbol), objects.  
 
-• Operators: Arithmetic, comparison, logical, assignment, bit-wise.
+• Operators: Arithmetic, comparison, logical, assignment, bit-wise.  
 
 • Control Structures: Conditional statements (if-else, switch...case), loops (for, while, do-while).
    
