@@ -1,7 +1,7 @@
                                                        
 # Learn javaScript          
 
-[1. Basic Concepts:](https://github.com/BillahDotDev/Learn-javaScript/edit/main/01.%20Basic%20Concepts)      
+[1. Basic Concepts:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts.js)      
 
    
 • Variables: Declarations, scopes, hoisting.   
