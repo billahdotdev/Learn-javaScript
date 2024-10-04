@@ -1,4 +1,4 @@
-                                                     
+                                                    
 # Learn javaScript          
 
 [1. Basic Concepts:](https://github.com/BillahDotDev/Learn-javaScript/edit/main/01.%20Basic%20Concepts)      
@@ -126,6 +126,7 @@
 • Content Security Policy (CSP): Defining which resources can be loaded on a web page.  
 
 (continued...)   
+
 
 
 
