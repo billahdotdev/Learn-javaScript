@@ -1,4 +1,4 @@
-Variables
+#Variables
 ---------
 • Declaration: In JavaScript, variables are declared using the var, let, or const keywords.
   
