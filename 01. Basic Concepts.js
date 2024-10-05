@@ -11,7 +11,7 @@
   ◦ const (constant): Also introduced in ES6, used to declare variables whose value cannot be reassigned.
 
 • Initialization: Variables can be declared and assigned a value simultaneously.
-let x = 10;
+  let x = 10;
 
 • Scopes:
 • Global Scope: Variables declared outside of any function or block have global scope and can be 
