@@ -15,9 +15,9 @@
 
 • Scopes:
 • Global Scope: Variables declared outside of any function or block have global scope and can be 
-accessed from anywhere in the code.
-var globalVar = 5;
-console.log(globalVar); // Output: 5
+  accessed from anywhere in the code.
+  var globalVar = 5;
+  console.log(globalVar); // Output: 5
 
 • Function Scope: Variables declared inside a function have function scope and can only be accessed within that function.
 function myFunction() {
