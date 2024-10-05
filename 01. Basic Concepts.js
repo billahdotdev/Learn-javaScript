@@ -3,7 +3,7 @@
 • Declaration: In JavaScript, variables are declared using the var, let, or const keywords.
   
   ◦ var (function-scoped variable): Historically used for variable declaration but is now 
-   considered less preferable compared to let and const.
+    considered less preferable compared to let and const.
   
   ◦ let (block-scoped variable): Introduced in ES6 (ECMAScript 2015), preferred over var in most cases 
    due to its block-level scoping.
