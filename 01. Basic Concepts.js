@@ -20,11 +20,11 @@
   console.log(globalVar); // Output: 5
 
 • Function Scope: Variables declared inside a function have function scope and can only be accessed within that function.
-function myFunction() {
-    var localVar = 10;
-    console.log(localVar); // Output: 10
-}
-myFunction();
+  function myFunction() {
+     var localVar = 10;
+     console.log(localVar); // Output: 10
+  }
+  myFunction();
 
 // console.log(localVar); // Error: localVar is not defined
 • Block Scope: Variables declared with let and const are block-scoped, meaning they are only accessible within 
