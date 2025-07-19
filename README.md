@@ -1,7 +1,6 @@
 # Learn JavaScript                    
 
 [1. Basic Concepts:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/01.%20Basic%20Concepts.js)      
-
    
 • Variables: Declarations, scopes, hoisting.     
 
@@ -10,6 +9,7 @@
 • Operators: Arithmetic, comparison, logical, assignment, bit-wise.  
 
 • Control Structures: Conditional statements (if-else, switch...case), loops (for, while, do-while).     
+
    
 [2. Functions:](https://github.com/BillahDotDev/Learn-javaScript/blob/main/02.%20Functions)
 
