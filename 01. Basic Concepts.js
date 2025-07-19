@@ -36,16 +36,16 @@ if (true) {
 // console.log(blockVar); // Error: blockVar is not defined
 
 • Hoisting:
-• JavaScript hoists variable declarations to the top of their scope during compilation, 
+JavaScript hoists variable declarations to the top of their scope during compilation, 
 regardless of where the actual declaration is made.
-• console.log(myVar); // Output: undefined
-• var myVar = 10;
-• This code is interpreted as:
-• var myVar;
-• console.log(myVar); // Output: undefined
-• myVar = 10;
-• Mutable vs. Immutable (const):
-• Variables declared with const are not immutable, but their binding (reference) cannot be changed. 
+ console.log(myVar); // Output: undefined
+ var myVar = 10;
+ This code is interpreted as:
+ var myVar;
+ console.log(myVar); // Output: undefined
+ myVar = 10;
+ Mutable vs. Immutable (const):
+ Variables declared with const are not immutable, but their binding (reference) cannot be changed. 
 For primitive data types (like numbers, strings), the value itself cannot be changed. However, 
 for objects and arrays, properties and elements can be modified.
 const PI = 3.14;
