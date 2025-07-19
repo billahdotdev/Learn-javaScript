@@ -1,20 +1,5 @@
 #Variables
 ---------
-## Declaration
-JavaScript variables can be declared using var, let, or const:
-
-var – Function-scoped. Older style; avoid using in modern code.
-
-let – Block-scoped. Introduced in ES6. Preferred over var.
-
-const – Block-scoped constant. Also introduced in ES6. Cannot be reassigned.
-
-js
-Copy
-Edit
-let x = 10; // declaration + initialization
-  
-  
   
   • Declaration: In JavaScript, variables are declared using the var, let, or const keywords.
   
