@@ -4,67 +4,6 @@
    
 • Variables: Declarations, scopes, hoisting. 
 
-  
-  • Declaration: 
-
-In JavaScript, variables are declared using the var, let, or const keywords.
-  
-  ◦ var (function-scoped variable): Historically used for variable declaration but is now 
-    considered less preferable compared to let and const.
-  
-  ◦ let (block-scoped variable): Introduced in ES6 (ECMAScript 2015), preferred over var in most cases 
-    due to its block-level scoping.
-  
-  ◦ const (constant): Also introduced in ES6, used to declare variables whose value cannot be reassigned.
-
-• Initialization: Variables can be declared and assigned a value simultaneously.
-  let x = 10;
-
-• Scopes:
-• Global Scope: Variables declared outside of any function or block have global scope and can be 
-  accessed from anywhere in the code.
-  var globalVar = 5;
-  console.log(globalVar); // Output: 5
-
-• Function Scope: Variables declared inside a function have function scope and can only be accessed within that function.
-  function myFunction() {
-     var localVar = 10;
-     console.log(localVar); // Output: 10
-  }
-  myFunction();
-
-// console.log(localVar); // Error: localVar is not defined
-• Block Scope: Variables declared with let and const are block-scoped, meaning they are only accessible within 
-the block (enclosed by {}) in which they are defined.
-if (true) {
-    let blockVar = 20;
-    console.log(blockVar); // Output: 20
-}
-// console.log(blockVar); // Error: blockVar is not defined
-
-• Hoisting:
-JavaScript hoists variable declarations to the top of their scope during compilation, 
-regardless of where the actual declaration is made.
- console.log(myVar); // Output: undefined
- var myVar = 10;
- This code is interpreted as:
- var myVar;
- console.log(myVar); // Output: undefined
- myVar = 10;
- Mutable vs. Immutable (const):
- Variables declared with const are not immutable, but their binding (reference) cannot be changed. 
-For primitive data types (like numbers, strings), the value itself cannot be changed. However, 
-for objects and arrays, properties and elements can be modified.
-const PI = 3.14;
-// PI = 3; // Error: Assignment to constant variable.
-
-const person = {
-    name: 'John',
-    age: 30
-};
-person.age = 35; // Valid
-
-
 • Data Types: Primitive types (number, string, boolean, null, undefined, symbol), objects.  
 
 • Operators: Arithmetic, comparison, logical, assignment, bit-wise.  
