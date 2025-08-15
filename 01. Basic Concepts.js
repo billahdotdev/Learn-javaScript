@@ -208,3 +208,4 @@ let age = 20;
 let status = (age >= 18) ? "adult" : "minor";
 console.log(status); // "adult"
 
+
