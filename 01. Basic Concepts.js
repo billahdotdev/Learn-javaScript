@@ -60,6 +60,7 @@ const person = {
 };
 person.age = 35; // Valid
 
+
                                                        Data Types:
 Primitive Data Types:
 1. Number:
