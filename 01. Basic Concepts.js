@@ -134,6 +134,7 @@ const result = 10 + '5'; // '105'
 const num = parseInt('10'); // 10
 const bool = Boolean(0); // false
 
+
                                                     Operators:
 
 1. Arithmetic Operators:
